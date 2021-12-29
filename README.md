@@ -1,4 +1,4 @@
-# 👏👏👏最全空降Golang[资料补给包](https://github.com/0voice/Introduction-to-Golang#-%E8%B5%84%E6%96%99%E5%8C%85)（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt
+# 👏👏👏最全空降Golang[资料补给包](https://github.com/go-quiz/Introduction-to-Golang#-%E8%B5%84%E6%96%99%E5%8C%85)（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt
 
 <div  align=center>
 <img width="70%" height="70%" src="https://user-images.githubusercontent.com/87457873/128655088-7e2704a7-ce37-4e78-9b9c-a8865597f364.png"/>
@@ -8,19 +8,19 @@
 <br>
 
 
- [🏃‍♂<br>&nbsp;&nbsp;&nbsp; &nbsp;环境安装&nbsp;&nbsp;&nbsp;&nbsp; ](https://github.com/0voice/Introduction-to-Golang/blob/main/%E6%90%AD%E5%BB%BAGo%E8%AF%AD%E8%A8%80%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E6%90%AD%E5%BB%BAGo%E8%AF%AD%E8%A8%80%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83.md)  |[📚<br>&nbsp;&nbsp;&nbsp; 知识归纳&nbsp;&nbsp;&nbsp; ](https://github.com/0voice/Introduction-to-Golang#step-3%E5%A6%82%E4%BD%95%E9%AB%98%E6%95%88%E5%9C%B0%E5%AD%A6%E4%B9%A0go)|  [📕<br>&nbsp;&nbsp;&nbsp; 电子书籍&nbsp;&nbsp;&nbsp; ](https://github.com/0voice/Introduction-to-Golang#-%E4%B9%A6%E7%B1%8D) 
+ [🏃‍♂<br>&nbsp;&nbsp;&nbsp; &nbsp;环境安装&nbsp;&nbsp;&nbsp;&nbsp; ](https://github.com/go-quiz/Introduction-to-Golang/blob/main/%E6%90%AD%E5%BB%BAGo%E8%AF%AD%E8%A8%80%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E6%90%AD%E5%BB%BAGo%E8%AF%AD%E8%A8%80%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83.md)  |[📚<br>&nbsp;&nbsp;&nbsp; 知识归纳&nbsp;&nbsp;&nbsp; ](https://github.com/go-quiz/Introduction-to-Golang#step-3%E5%A6%82%E4%BD%95%E9%AB%98%E6%95%88%E5%9C%B0%E5%AD%A6%E4%B9%A0go)|  [📕<br>&nbsp;&nbsp;&nbsp; 电子书籍&nbsp;&nbsp;&nbsp; ](https://github.com/go-quiz/Introduction-to-Golang#-%E4%B9%A6%E7%B1%8D) 
 :-------: | :-------: | :---------:
- **[📖<br>精选文章](https://github.com/0voice/Introduction-to-Golang#-%E6%96%87%E7%AB%A0)**|**[💽<br>大佬视频](https://github.com/0voice/Introduction-to-Golang#-%E8%A7%86%E9%A2%91)**  |  **[🏗<br>开源项目](https://github.com/0voice/Introduction-to-Golang#-%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E6%AE%B5%E4%BD%8D%E7%BA%AF%E5%B1%9E%E5%88%86%E7%B1%BB%E7%AE%A1%E7%90%86%E4%B8%8D%E5%88%86%E5%85%88%E5%90%8E)**
-**[📄<br>学术论文](https://github.com/0voice/Introduction-to-Golang#-%E8%AE%BA%E6%96%87%E4%B8%8E%E7%90%86%E8%AE%BA%E5%88%86%E6%9E%90)** | **[🖼<br>大会PPT](https://github.com/0voice/Introduction-to-Golang#-%E5%A4%A7%E5%8E%82%E5%AE%9E%E6%88%98%E5%88%86%E4%BA%ABppt)** | **[☁<br>云原生](https://github.com/0voice/Introduction-to-Golang#-%E4%BA%91%E5%8E%9F%E7%94%9F)**
+ **[📖<br>精选文章](https://github.com/go-quiz/Introduction-to-Golang#-%E6%96%87%E7%AB%A0)**|**[💽<br>大佬视频](https://github.com/go-quiz/Introduction-to-Golang#-%E8%A7%86%E9%A2%91)**  |  **[🏗<br>开源项目](https://github.com/go-quiz/Introduction-to-Golang#-%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E6%AE%B5%E4%BD%8D%E7%BA%AF%E5%B1%9E%E5%88%86%E7%B1%BB%E7%AE%A1%E7%90%86%E4%B8%8D%E5%88%86%E5%85%88%E5%90%8E)**
+**[📄<br>学术论文](https://github.com/go-quiz/Introduction-to-Golang#-%E8%AE%BA%E6%96%87%E4%B8%8E%E7%90%86%E8%AE%BA%E5%88%86%E6%9E%90)** | **[🖼<br>大会PPT](https://github.com/go-quiz/Introduction-to-Golang#-%E5%A4%A7%E5%8E%82%E5%AE%9E%E6%88%98%E5%88%86%E4%BA%ABppt)** | **[☁<br>云原生](https://github.com/go-quiz/Introduction-to-Golang#-%E4%BA%91%E5%8E%9F%E7%94%9F)**
 
 </div>
 
 <br>
 
-## 📣【今日推荐阅读】[Go自带库的使用说明](https://github.com/0voice/Introduction-to-Golang/blob/main/Go%E8%87%AA%E5%B8%A6%E5%BA%93%E7%9A%84%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md)
-## 🔠【还不会入门，找我】[Go语言基础语法宝典](https://github.com/0voice/Introduction-to-Golang/blob/main/Go%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95%E5%AE%9D%E5%85%B8.md)
-## 🗡【一册在手，天下我有】[Go 语言参考手册](https://github.com/0voice/Introduction-to-Golang/blob/main/Go%20%E8%AF%AD%E8%A8%80%E5%8F%82%E8%80%83%E6%89%8B%E5%86%8C.md)
-## 🤔【导图辅助，有如神助】[Golang 入门笔记](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20%E5%85%A5%E9%97%A8%E7%AC%94%E8%AE%B0.md)[（pdf版下载）](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20%E5%85%A5%E9%97%A8%E7%AC%94%E8%AE%B0.pdf)
+## 📣【今日推荐阅读】[Go自带库的使用说明](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Go%E8%87%AA%E5%B8%A6%E5%BA%93%E7%9A%84%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md)
+## 🔠【还不会入门，找我】[Go语言基础语法宝典](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Go%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95%E5%AE%9D%E5%85%B8.md)
+## 🗡【一册在手，天下我有】[Go 语言参考手册](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Go%20%E8%AF%AD%E8%A8%80%E5%8F%82%E8%80%83%E6%89%8B%E5%86%8C.md)
+## 🤔【导图辅助，有如神助】[Golang 入门笔记](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Golang%20%E5%85%A5%E9%97%A8%E7%AC%94%E8%AE%B0.md)[（pdf版下载）](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Golang%20%E5%85%A5%E9%97%A8%E7%AC%94%E8%AE%B0.pdf)
 
 ## 🧑‍🤝‍🧑 Rob Pike谈Google Go
 
@@ -31,63 +31,63 @@
 
 </div>
 
-##### [1. Rob，你创建了Google Go这门语言。什么是Google Go？能简明扼要的介绍一下Google Go吗？](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#1-rob%E4%BD%A0%E5%88%9B%E5%BB%BA%E4%BA%86google-go%E8%BF%99%E9%97%A8%E8%AF%AD%E8%A8%80%E4%BB%80%E4%B9%88%E6%98%AFgoogle-go%E8%83%BD%E7%AE%80%E6%98%8E%E6%89%BC%E8%A6%81%E7%9A%84%E4%BB%8B%E7%BB%8D%E4%B8%80%E4%B8%8Bgoogle-go%E5%90%97)
+##### [1. Rob，你创建了Google Go这门语言。什么是Google Go？能简明扼要的介绍一下Google Go吗？](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#1-rob%E4%BD%A0%E5%88%9B%E5%BB%BA%E4%BA%86google-go%E8%BF%99%E9%97%A8%E8%AF%AD%E8%A8%80%E4%BB%80%E4%B9%88%E6%98%AFgoogle-go%E8%83%BD%E7%AE%80%E6%98%8E%E6%89%BC%E8%A6%81%E7%9A%84%E4%BB%8B%E7%BB%8D%E4%B8%80%E4%B8%8Bgoogle-go%E5%90%97)
 
-##### [2. Go的主要特点是什么？有什么重要功能？](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#2-go%E7%9A%84%E4%B8%BB%E8%A6%81%E7%89%B9%E7%82%B9%E6%98%AF%E4%BB%80%E4%B9%88%E6%9C%89%E4%BB%80%E4%B9%88%E9%87%8D%E8%A6%81%E5%8A%9F%E8%83%BD)
+##### [2. Go的主要特点是什么？有什么重要功能？](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#2-go%E7%9A%84%E4%B8%BB%E8%A6%81%E7%89%B9%E7%82%B9%E6%98%AF%E4%BB%80%E4%B9%88%E6%9C%89%E4%BB%80%E4%B9%88%E9%87%8D%E8%A6%81%E5%8A%9F%E8%83%BD)
 
-##### [3. 在我们继续话题之前，能否解释一下为什么Go编译器能达到那么快的编译速度呢？有什么法宝？](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#3-%E5%9C%A8%E6%88%91%E4%BB%AC%E7%BB%A7%E7%BB%AD%E8%AF%9D%E9%A2%98%E4%B9%8B%E5%89%8D%E8%83%BD%E5%90%A6%E8%A7%A3%E9%87%8A%E4%B8%80%E4%B8%8B%E4%B8%BA%E4%BB%80%E4%B9%88go%E7%BC%96%E8%AF%91%E5%99%A8%E8%83%BD%E8%BE%BE%E5%88%B0%E9%82%A3%E4%B9%88%E5%BF%AB%E7%9A%84%E7%BC%96%E8%AF%91%E9%80%9F%E5%BA%A6%E5%91%A2%E6%9C%89%E4%BB%80%E4%B9%88%E6%B3%95%E5%AE%9D)
+##### [3. 在我们继续话题之前，能否解释一下为什么Go编译器能达到那么快的编译速度呢？有什么法宝？](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#3-%E5%9C%A8%E6%88%91%E4%BB%AC%E7%BB%A7%E7%BB%AD%E8%AF%9D%E9%A2%98%E4%B9%8B%E5%89%8D%E8%83%BD%E5%90%A6%E8%A7%A3%E9%87%8A%E4%B8%80%E4%B8%8B%E4%B8%BA%E4%BB%80%E4%B9%88go%E7%BC%96%E8%AF%91%E5%99%A8%E8%83%BD%E8%BE%BE%E5%88%B0%E9%82%A3%E4%B9%88%E5%BF%AB%E7%9A%84%E7%BC%96%E8%AF%91%E9%80%9F%E5%BA%A6%E5%91%A2%E6%9C%89%E4%BB%80%E4%B9%88%E6%B3%95%E5%AE%9D)
 
-##### [4. 让我们开始聊聊Go里的类型系统吧。Go里面有结构（struct）、有类型（type）,那么Go里的类型是什么？](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#4-%E8%AE%A9%E6%88%91%E4%BB%AC%E5%BC%80%E5%A7%8B%E8%81%8A%E8%81%8Ago%E9%87%8C%E7%9A%84%E7%B1%BB%E5%9E%8B%E7%B3%BB%E7%BB%9F%E5%90%A7go%E9%87%8C%E9%9D%A2%E6%9C%89%E7%BB%93%E6%9E%84struct%E6%9C%89%E7%B1%BB%E5%9E%8Btype%E9%82%A3%E4%B9%88go%E9%87%8C%E7%9A%84%E7%B1%BB%E5%9E%8B%E6%98%AF%E4%BB%80%E4%B9%88)
+##### [4. 让我们开始聊聊Go里的类型系统吧。Go里面有结构（struct）、有类型（type）,那么Go里的类型是什么？](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#4-%E8%AE%A9%E6%88%91%E4%BB%AC%E5%BC%80%E5%A7%8B%E8%81%8A%E8%81%8Ago%E9%87%8C%E7%9A%84%E7%B1%BB%E5%9E%8B%E7%B3%BB%E7%BB%9F%E5%90%A7go%E9%87%8C%E9%9D%A2%E6%9C%89%E7%BB%93%E6%9E%84struct%E6%9C%89%E7%B1%BB%E5%9E%8Btype%E9%82%A3%E4%B9%88go%E9%87%8C%E7%9A%84%E7%B1%BB%E5%9E%8B%E6%98%AF%E4%BB%80%E4%B9%88)
 
-##### [5. 那么这些方法只是在包内部可见喽？](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#5-%E9%82%A3%E4%B9%88%E8%BF%99%E4%BA%9B%E6%96%B9%E6%B3%95%E5%8F%AA%E6%98%AF%E5%9C%A8%E5%8C%85%E5%86%85%E9%83%A8%E5%8F%AF%E8%A7%81%E5%96%BD)
+##### [5. 那么这些方法只是在包内部可见喽？](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#5-%E9%82%A3%E4%B9%88%E8%BF%99%E4%BA%9B%E6%96%B9%E6%B3%95%E5%8F%AA%E6%98%AF%E5%9C%A8%E5%8C%85%E5%86%85%E9%83%A8%E5%8F%AF%E8%A7%81%E5%96%BD)
 
-##### [6. 你的意思是，我可以给int增加方法，但是必须先使用typedef吗？](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#6-%E4%BD%A0%E7%9A%84%E6%84%8F%E6%80%9D%E6%98%AF%E6%88%91%E5%8F%AF%E4%BB%A5%E7%BB%99int%E5%A2%9E%E5%8A%A0%E6%96%B9%E6%B3%95%E4%BD%86%E6%98%AF%E5%BF%85%E9%A1%BB%E5%85%88%E4%BD%BF%E7%94%A8typedef%E5%90%97)
+##### [6. 你的意思是，我可以给int增加方法，但是必须先使用typedef吗？](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#6-%E4%BD%A0%E7%9A%84%E6%84%8F%E6%80%9D%E6%98%AF%E6%88%91%E5%8F%AF%E4%BB%A5%E7%BB%99int%E5%A2%9E%E5%8A%A0%E6%96%B9%E6%B3%95%E4%BD%86%E6%98%AF%E5%BF%85%E9%A1%BB%E5%85%88%E4%BD%BF%E7%94%A8typedef%E5%90%97)
 
-##### [7. 你们借鉴了Ruby里开放类的思想，这很有意思。Ruby的开放类实际上是可以修改类并增加新的方法，这是有破坏性的，但是你们的方法本质上是安全的，因为创建了新的东西。](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#7-%E4%BD%A0%E4%BB%AC%E5%80%9F%E9%89%B4%E4%BA%86ruby%E9%87%8C%E5%BC%80%E6%94%BE%E7%B1%BB%E7%9A%84%E6%80%9D%E6%83%B3%E8%BF%99%E5%BE%88%E6%9C%89%E6%84%8F%E6%80%9Druby%E7%9A%84%E5%BC%80%E6%94%BE%E7%B1%BB%E5%AE%9E%E9%99%85%E4%B8%8A%E6%98%AF%E5%8F%AF%E4%BB%A5%E4%BF%AE%E6%94%B9%E7%B1%BB%E5%B9%B6%E5%A2%9E%E5%8A%A0%E6%96%B0%E7%9A%84%E6%96%B9%E6%B3%95%E8%BF%99%E6%98%AF%E6%9C%89%E7%A0%B4%E5%9D%8F%E6%80%A7%E7%9A%84%E4%BD%86%E6%98%AF%E4%BD%A0%E4%BB%AC%E7%9A%84%E6%96%B9%E6%B3%95%E6%9C%AC%E8%B4%A8%E4%B8%8A%E6%98%AF%E5%AE%89%E5%85%A8%E7%9A%84%E5%9B%A0%E4%B8%BA%E5%88%9B%E5%BB%BA%E4%BA%86%E6%96%B0%E7%9A%84%E4%B8%9C%E8%A5%BF)
+##### [7. 你们借鉴了Ruby里开放类的思想，这很有意思。Ruby的开放类实际上是可以修改类并增加新的方法，这是有破坏性的，但是你们的方法本质上是安全的，因为创建了新的东西。](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#7-%E4%BD%A0%E4%BB%AC%E5%80%9F%E9%89%B4%E4%BA%86ruby%E9%87%8C%E5%BC%80%E6%94%BE%E7%B1%BB%E7%9A%84%E6%80%9D%E6%83%B3%E8%BF%99%E5%BE%88%E6%9C%89%E6%84%8F%E6%80%9Druby%E7%9A%84%E5%BC%80%E6%94%BE%E7%B1%BB%E5%AE%9E%E9%99%85%E4%B8%8A%E6%98%AF%E5%8F%AF%E4%BB%A5%E4%BF%AE%E6%94%B9%E7%B1%BB%E5%B9%B6%E5%A2%9E%E5%8A%A0%E6%96%B0%E7%9A%84%E6%96%B9%E6%B3%95%E8%BF%99%E6%98%AF%E6%9C%89%E7%A0%B4%E5%9D%8F%E6%80%A7%E7%9A%84%E4%BD%86%E6%98%AF%E4%BD%A0%E4%BB%AC%E7%9A%84%E6%96%B9%E6%B3%95%E6%9C%AC%E8%B4%A8%E4%B8%8A%E6%98%AF%E5%AE%89%E5%85%A8%E7%9A%84%E5%9B%A0%E4%B8%BA%E5%88%9B%E5%BB%BA%E4%BA%86%E6%96%B0%E7%9A%84%E4%B8%9C%E8%A5%BF)
 
-##### [8. 你还提到了typedef，是叫typedef吧？](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#8-%E4%BD%A0%E8%BF%98%E6%8F%90%E5%88%B0%E4%BA%86typedef%E6%98%AF%E5%8F%ABtypedef%E5%90%A7)
+##### [8. 你还提到了typedef，是叫typedef吧？](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#8-%E4%BD%A0%E8%BF%98%E6%8F%90%E5%88%B0%E4%BA%86typedef%E6%98%AF%E5%8F%ABtypedef%E5%90%A7)
 
-##### [9. Typedef在C里是一种预处理指令吗？【编辑注/免责申明：C语言里的typedef与预处理无关】](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#9-typedef%E5%9C%A8c%E9%87%8C%E6%98%AF%E4%B8%80%E7%A7%8D%E9%A2%84%E5%A4%84%E7%90%86%E6%8C%87%E4%BB%A4%E5%90%97%E7%BC%96%E8%BE%91%E6%B3%A8%E5%85%8D%E8%B4%A3%E7%94%B3%E6%98%8Ec%E8%AF%AD%E8%A8%80%E9%87%8C%E7%9A%84typedef%E4%B8%8E%E9%A2%84%E5%A4%84%E7%90%86%E6%97%A0%E5%85%B3)
+##### [9. Typedef在C里是一种预处理指令吗？【编辑注/免责申明：C语言里的typedef与预处理无关】](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#9-typedef%E5%9C%A8c%E9%87%8C%E6%98%AF%E4%B8%80%E7%A7%8D%E9%A2%84%E5%A4%84%E7%90%86%E6%8C%87%E4%BB%A4%E5%90%97%E7%BC%96%E8%BE%91%E6%B3%A8%E5%85%8D%E8%B4%A3%E7%94%B3%E6%98%8Ec%E8%AF%AD%E8%A8%80%E9%87%8C%E7%9A%84typedef%E4%B8%8E%E9%A2%84%E5%A4%84%E7%90%86%E6%97%A0%E5%85%B3)
 
-##### [10. 我们从底层说起吧，在Go里最小的类型是什么？](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#10-%E6%88%91%E4%BB%AC%E4%BB%8E%E5%BA%95%E5%B1%82%E8%AF%B4%E8%B5%B7%E5%90%A7%E5%9C%A8go%E9%87%8C%E6%9C%80%E5%B0%8F%E7%9A%84%E7%B1%BB%E5%9E%8B%E6%98%AF%E4%BB%80%E4%B9%88)
+##### [10. 我们从底层说起吧，在Go里最小的类型是什么？](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#10-%E6%88%91%E4%BB%AC%E4%BB%8E%E5%BA%95%E5%B1%82%E8%AF%B4%E8%B5%B7%E5%90%A7%E5%9C%A8go%E9%87%8C%E6%9C%80%E5%B0%8F%E7%9A%84%E7%B1%BB%E5%9E%8B%E6%98%AF%E4%BB%80%E4%B9%88)
 
-##### [11. 但是，int这样的类型是值类型对吧.](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#11-%E4%BD%86%E6%98%AFint%E8%BF%99%E6%A0%B7%E7%9A%84%E7%B1%BB%E5%9E%8B%E6%98%AF%E5%80%BC%E7%B1%BB%E5%9E%8B%E5%AF%B9%E5%90%A7)
+##### [11. 但是，int这样的类型是值类型对吧.](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#11-%E4%BD%86%E6%98%AFint%E8%BF%99%E6%A0%B7%E7%9A%84%E7%B1%BB%E5%9E%8B%E6%98%AF%E5%80%BC%E7%B1%BB%E5%9E%8B%E5%AF%B9%E5%90%A7)
 
-##### [12. 它们类似C++的引用吗？](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#12-%E5%AE%83%E4%BB%AC%E7%B1%BB%E4%BC%BCc%E7%9A%84%E5%BC%95%E7%94%A8%E5%90%97)
+##### [12. 它们类似C++的引用吗？](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#12-%E5%AE%83%E4%BB%AC%E7%B1%BB%E4%BC%BCc%E7%9A%84%E5%BC%95%E7%94%A8%E5%90%97)
 
-##### [13. 它是结构内部一个复合对象。](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#13-%E5%AE%83%E6%98%AF%E7%BB%93%E6%9E%84%E5%86%85%E9%83%A8%E4%B8%80%E4%B8%AA%E5%A4%8D%E5%90%88%E5%AF%B9%E8%B1%A1)
+##### [13. 它是结构内部一个复合对象。](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#13-%E5%AE%83%E6%98%AF%E7%BB%93%E6%9E%84%E5%86%85%E9%83%A8%E4%B8%80%E4%B8%AA%E5%A4%8D%E5%90%88%E5%AF%B9%E8%B1%A1)
 
-##### [14. 你提到过接口比较有趣，那下面咱们就谈谈这一部分。](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#14-%E4%BD%A0%E6%8F%90%E5%88%B0%E8%BF%87%E6%8E%A5%E5%8F%A3%E6%AF%94%E8%BE%83%E6%9C%89%E8%B6%A3%E9%82%A3%E4%B8%8B%E9%9D%A2%E5%92%B1%E4%BB%AC%E5%B0%B1%E8%B0%88%E8%B0%88%E8%BF%99%E4%B8%80%E9%83%A8%E5%88%86)
+##### [14. 你提到过接口比较有趣，那下面咱们就谈谈这一部分。](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#14-%E4%BD%A0%E6%8F%90%E5%88%B0%E8%BF%87%E6%8E%A5%E5%8F%A3%E6%AF%94%E8%BE%83%E6%9C%89%E8%B6%A3%E9%82%A3%E4%B8%8B%E9%9D%A2%E5%92%B1%E4%BB%AC%E5%B0%B1%E8%B0%88%E8%B0%88%E8%BF%99%E4%B8%80%E9%83%A8%E5%88%86)
 
-##### [15. 某种程度上有点类似结构化类型系统（structural typing)](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#15-%E6%9F%90%E7%A7%8D%E7%A8%8B%E5%BA%A6%E4%B8%8A%E6%9C%89%E7%82%B9%E7%B1%BB%E4%BC%BC%E7%BB%93%E6%9E%84%E5%8C%96%E7%B1%BB%E5%9E%8B%E7%B3%BB%E7%BB%9Fstructural-typing)
+##### [15. 某种程度上有点类似结构化类型系统（structural typing)](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#15-%E6%9F%90%E7%A7%8D%E7%A8%8B%E5%BA%A6%E4%B8%8A%E6%9C%89%E7%82%B9%E7%B1%BB%E4%BC%BC%E7%BB%93%E6%9E%84%E5%8C%96%E7%B1%BB%E5%9E%8B%E7%B3%BB%E7%BB%9Fstructural-typing)
 
-##### [16. 你提到过类，但Go没有类，对吧。](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#16-%E4%BD%A0%E6%8F%90%E5%88%B0%E8%BF%87%E7%B1%BB%E4%BD%86go%E6%B2%A1%E6%9C%89%E7%B1%BB%E5%AF%B9%E5%90%A7)
+##### [16. 你提到过类，但Go没有类，对吧。](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#16-%E4%BD%A0%E6%8F%90%E5%88%B0%E8%BF%87%E7%B1%BB%E4%BD%86go%E6%B2%A1%E6%9C%89%E7%B1%BB%E5%AF%B9%E5%90%A7)
 
-##### [17. 但是没有类怎么去写代码？](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#17-%E4%BD%86%E6%98%AF%E6%B2%A1%E6%9C%89%E7%B1%BB%E6%80%8E%E4%B9%88%E5%8E%BB%E5%86%99%E4%BB%A3%E7%A0%81)
+##### [17. 但是没有类怎么去写代码？](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#17-%E4%BD%86%E6%98%AF%E6%B2%A1%E6%9C%89%E7%B1%BB%E6%80%8E%E4%B9%88%E5%8E%BB%E5%86%99%E4%BB%A3%E7%A0%81)
 
-##### [18. 如果我有一些行为要实现，而且想放在多个structs里，怎么去共享这些行为？](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#18-%E5%A6%82%E6%9E%9C%E6%88%91%E6%9C%89%E4%B8%80%E4%BA%9B%E8%A1%8C%E4%B8%BA%E8%A6%81%E5%AE%9E%E7%8E%B0%E8%80%8C%E4%B8%94%E6%83%B3%E6%94%BE%E5%9C%A8%E5%A4%9A%E4%B8%AAstructs%E9%87%8C%E6%80%8E%E4%B9%88%E5%8E%BB%E5%85%B1%E4%BA%AB%E8%BF%99%E4%BA%9B%E8%A1%8C%E4%B8%BA)
+##### [18. 如果我有一些行为要实现，而且想放在多个structs里，怎么去共享这些行为？](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#18-%E5%A6%82%E6%9E%9C%E6%88%91%E6%9C%89%E4%B8%80%E4%BA%9B%E8%A1%8C%E4%B8%BA%E8%A6%81%E5%AE%9E%E7%8E%B0%E8%80%8C%E4%B8%94%E6%83%B3%E6%94%BE%E5%9C%A8%E5%A4%9A%E4%B8%AAstructs%E9%87%8C%E6%80%8E%E4%B9%88%E5%8E%BB%E5%85%B1%E4%BA%AB%E8%BF%99%E4%BA%9B%E8%A1%8C%E4%B8%BA)
 
-##### [19. 如果有多重继承命名冲突的问题该怎么办？](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#19-%E5%A6%82%E6%9E%9C%E6%9C%89%E5%A4%9A%E9%87%8D%E7%BB%A7%E6%89%BF%E5%91%BD%E5%90%8D%E5%86%B2%E7%AA%81%E7%9A%84%E9%97%AE%E9%A2%98%E8%AF%A5%E6%80%8E%E4%B9%88%E5%8A%9E)
+##### [19. 如果有多重继承命名冲突的问题该怎么办？](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#19-%E5%A6%82%E6%9E%9C%E6%9C%89%E5%A4%9A%E9%87%8D%E7%BB%A7%E6%89%BF%E5%91%BD%E5%90%8D%E5%86%B2%E7%AA%81%E7%9A%84%E9%97%AE%E9%A2%98%E8%AF%A5%E6%80%8E%E4%B9%88%E5%8A%9E)
 
-##### [20. 因为系统中没有根对象或根类，如果我想得到一个拥有不同类型的结构的列表，应该怎么办？](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#20-%E5%9B%A0%E4%B8%BA%E7%B3%BB%E7%BB%9F%E4%B8%AD%E6%B2%A1%E6%9C%89%E6%A0%B9%E5%AF%B9%E8%B1%A1%E6%88%96%E6%A0%B9%E7%B1%BB%E5%A6%82%E6%9E%9C%E6%88%91%E6%83%B3%E5%BE%97%E5%88%B0%E4%B8%80%E4%B8%AA%E6%8B%A5%E6%9C%89%E4%B8%8D%E5%90%8C%E7%B1%BB%E5%9E%8B%E7%9A%84%E7%BB%93%E6%9E%84%E7%9A%84%E5%88%97%E8%A1%A8%E5%BA%94%E8%AF%A5%E6%80%8E%E4%B9%88%E5%8A%9E)
+##### [20. 因为系统中没有根对象或根类，如果我想得到一个拥有不同类型的结构的列表，应该怎么办？](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#20-%E5%9B%A0%E4%B8%BA%E7%B3%BB%E7%BB%9F%E4%B8%AD%E6%B2%A1%E6%9C%89%E6%A0%B9%E5%AF%B9%E8%B1%A1%E6%88%96%E6%A0%B9%E7%B1%BB%E5%A6%82%E6%9E%9C%E6%88%91%E6%83%B3%E5%BE%97%E5%88%B0%E4%B8%80%E4%B8%AA%E6%8B%A5%E6%9C%89%E4%B8%8D%E5%90%8C%E7%B1%BB%E5%9E%8B%E7%9A%84%E7%BB%93%E6%9E%84%E7%9A%84%E5%88%97%E8%A1%A8%E5%BA%94%E8%AF%A5%E6%80%8E%E4%B9%88%E5%8A%9E)
 
-##### [21. Go里有叫做Goroutines的东西，它们和coroutines有什么区别？不一样么？](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#21-go%E9%87%8C%E6%9C%89%E5%8F%AB%E5%81%9Agoroutines%E7%9A%84%E4%B8%9C%E8%A5%BF%E5%AE%83%E4%BB%AC%E5%92%8Ccoroutines%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB%E4%B8%8D%E4%B8%80%E6%A0%B7%E4%B9%88)
+##### [21. Go里有叫做Goroutines的东西，它们和coroutines有什么区别？不一样么？](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#21-go%E9%87%8C%E6%9C%89%E5%8F%AB%E5%81%9Agoroutines%E7%9A%84%E4%B8%9C%E8%A5%BF%E5%AE%83%E4%BB%AC%E5%92%8Ccoroutines%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB%E4%B8%8D%E4%B8%80%E6%A0%B7%E4%B9%88)
 
-##### [22. 你提到你们使用了m:n线程模型，即m个coroutines映射到n个线程上？](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#22-%E4%BD%A0%E6%8F%90%E5%88%B0%E4%BD%A0%E4%BB%AC%E4%BD%BF%E7%94%A8%E4%BA%86mn%E7%BA%BF%E7%A8%8B%E6%A8%A1%E5%9E%8B%E5%8D%B3m%E4%B8%AAcoroutines%E6%98%A0%E5%B0%84%E5%88%B0n%E4%B8%AA%E7%BA%BF%E7%A8%8B%E4%B8%8A)
+##### [22. 你提到你们使用了m:n线程模型，即m个coroutines映射到n个线程上？](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#22-%E4%BD%A0%E6%8F%90%E5%88%B0%E4%BD%A0%E4%BB%AC%E4%BD%BF%E7%94%A8%E4%BA%86mn%E7%BA%BF%E7%A8%8B%E6%A8%A1%E5%9E%8B%E5%8D%B3m%E4%B8%AAcoroutines%E6%98%A0%E5%B0%84%E5%88%B0n%E4%B8%AA%E7%BA%BF%E7%A8%8B%E4%B8%8A)
 
-##### [23. Goroutines有用于通信的通道吗？](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#23-goroutines%E6%9C%89%E7%94%A8%E4%BA%8E%E9%80%9A%E4%BF%A1%E7%9A%84%E9%80%9A%E9%81%93%E5%90%97)
+##### [23. Goroutines有用于通信的通道吗？](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#23-goroutines%E6%9C%89%E7%94%A8%E4%BA%8E%E9%80%9A%E4%BF%A1%E7%9A%84%E9%80%9A%E9%81%93%E5%90%97)
 
-##### [24. 你提到你们有缓存的同步通道和异步通道。](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#24-%E4%BD%A0%E6%8F%90%E5%88%B0%E4%BD%A0%E4%BB%AC%E6%9C%89%E7%BC%93%E5%AD%98%E7%9A%84%E5%90%8C%E6%AD%A5%E9%80%9A%E9%81%93%E5%92%8C%E5%BC%82%E6%AD%A5%E9%80%9A%E9%81%93)
+##### [24. 你提到你们有缓存的同步通道和异步通道。](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#24-%E4%BD%A0%E6%8F%90%E5%88%B0%E4%BD%A0%E4%BB%AC%E6%9C%89%E7%BC%93%E5%AD%98%E7%9A%84%E5%90%8C%E6%AD%A5%E9%80%9A%E9%81%93%E5%92%8C%E5%BC%82%E6%AD%A5%E9%80%9A%E9%81%93)
 
-##### [25. 每个Goroutine就像是一个小的线程，可以这么给读者解释吧。](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#25-%E6%AF%8F%E4%B8%AAgoroutine%E5%B0%B1%E5%83%8F%E6%98%AF%E4%B8%80%E4%B8%AA%E5%B0%8F%E7%9A%84%E7%BA%BF%E7%A8%8B%E5%8F%AF%E4%BB%A5%E8%BF%99%E4%B9%88%E7%BB%99%E8%AF%BB%E8%80%85%E8%A7%A3%E9%87%8A%E5%90%A7)
+##### [25. 每个Goroutine就像是一个小的线程，可以这么给读者解释吧。](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#25-%E6%AF%8F%E4%B8%AAgoroutine%E5%B0%B1%E5%83%8F%E6%98%AF%E4%B8%80%E4%B8%AA%E5%B0%8F%E7%9A%84%E7%BA%BF%E7%A8%8B%E5%8F%AF%E4%BB%A5%E8%BF%99%E4%B9%88%E7%BB%99%E8%AF%BB%E8%80%85%E8%A7%A3%E9%87%8A%E5%90%A7)
 
-##### [26. 它们是轻量级的。但是每个线程同样都预分配栈空间，因而它们非常耗费资，Goroutines是怎么处理的呢？](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#26-%E5%AE%83%E4%BB%AC%E6%98%AF%E8%BD%BB%E9%87%8F%E7%BA%A7%E7%9A%84%E4%BD%86%E6%98%AF%E6%AF%8F%E4%B8%AA%E7%BA%BF%E7%A8%8B%E5%90%8C%E6%A0%B7%E9%83%BD%E9%A2%84%E5%88%86%E9%85%8D%E6%A0%88%E7%A9%BA%E9%97%B4%E5%9B%A0%E8%80%8C%E5%AE%83%E4%BB%AC%E9%9D%9E%E5%B8%B8%E8%80%97%E8%B4%B9%E8%B5%84goroutines%E6%98%AF%E6%80%8E%E4%B9%88%E5%A4%84%E7%90%86%E7%9A%84%E5%91%A2)
+##### [26. 它们是轻量级的。但是每个线程同样都预分配栈空间，因而它们非常耗费资，Goroutines是怎么处理的呢？](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#26-%E5%AE%83%E4%BB%AC%E6%98%AF%E8%BD%BB%E9%87%8F%E7%BA%A7%E7%9A%84%E4%BD%86%E6%98%AF%E6%AF%8F%E4%B8%AA%E7%BA%BF%E7%A8%8B%E5%90%8C%E6%A0%B7%E9%83%BD%E9%A2%84%E5%88%86%E9%85%8D%E6%A0%88%E7%A9%BA%E9%97%B4%E5%9B%A0%E8%80%8C%E5%AE%83%E4%BB%AC%E9%9D%9E%E5%B8%B8%E8%80%97%E8%B4%B9%E8%B5%84goroutines%E6%98%AF%E6%80%8E%E4%B9%88%E5%A4%84%E7%90%86%E7%9A%84%E5%91%A2)
 
-##### [27. 我们再来谈谈自动化方面的东西，最初你们是将Go语言作为系统级语言来推广的，一个有趣的选择是使用了垃圾回收器，但是它速度并不快或者说有垃圾回收间歇问题，如果用它写一个操作系统的话，这是非常烦人的。你们是怎么看这一问题的？](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#27-%E6%88%91%E4%BB%AC%E5%86%8D%E6%9D%A5%E8%B0%88%E8%B0%88%E8%87%AA%E5%8A%A8%E5%8C%96%E6%96%B9%E9%9D%A2%E7%9A%84%E4%B8%9C%E8%A5%BF%E6%9C%80%E5%88%9D%E4%BD%A0%E4%BB%AC%E6%98%AF%E5%B0%86go%E8%AF%AD%E8%A8%80%E4%BD%9C%E4%B8%BA%E7%B3%BB%E7%BB%9F%E7%BA%A7%E8%AF%AD%E8%A8%80%E6%9D%A5%E6%8E%A8%E5%B9%BF%E7%9A%84%E4%B8%80%E4%B8%AA%E6%9C%89%E8%B6%A3%E7%9A%84%E9%80%89%E6%8B%A9%E6%98%AF%E4%BD%BF%E7%94%A8%E4%BA%86%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E5%99%A8%E4%BD%86%E6%98%AF%E5%AE%83%E9%80%9F%E5%BA%A6%E5%B9%B6%E4%B8%8D%E5%BF%AB%E6%88%96%E8%80%85%E8%AF%B4%E6%9C%89%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E9%97%B4%E6%AD%87%E9%97%AE%E9%A2%98%E5%A6%82%E6%9E%9C%E7%94%A8%E5%AE%83%E5%86%99%E4%B8%80%E4%B8%AA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%9A%84%E8%AF%9D%E8%BF%99%E6%98%AF%E9%9D%9E%E5%B8%B8%E7%83%A6%E4%BA%BA%E7%9A%84%E4%BD%A0%E4%BB%AC%E6%98%AF%E6%80%8E%E4%B9%88%E7%9C%8B%E8%BF%99%E4%B8%80%E9%97%AE%E9%A2%98%E7%9A%84)
+##### [27. 我们再来谈谈自动化方面的东西，最初你们是将Go语言作为系统级语言来推广的，一个有趣的选择是使用了垃圾回收器，但是它速度并不快或者说有垃圾回收间歇问题，如果用它写一个操作系统的话，这是非常烦人的。你们是怎么看这一问题的？](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#27-%E6%88%91%E4%BB%AC%E5%86%8D%E6%9D%A5%E8%B0%88%E8%B0%88%E8%87%AA%E5%8A%A8%E5%8C%96%E6%96%B9%E9%9D%A2%E7%9A%84%E4%B8%9C%E8%A5%BF%E6%9C%80%E5%88%9D%E4%BD%A0%E4%BB%AC%E6%98%AF%E5%B0%86go%E8%AF%AD%E8%A8%80%E4%BD%9C%E4%B8%BA%E7%B3%BB%E7%BB%9F%E7%BA%A7%E8%AF%AD%E8%A8%80%E6%9D%A5%E6%8E%A8%E5%B9%BF%E7%9A%84%E4%B8%80%E4%B8%AA%E6%9C%89%E8%B6%A3%E7%9A%84%E9%80%89%E6%8B%A9%E6%98%AF%E4%BD%BF%E7%94%A8%E4%BA%86%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E5%99%A8%E4%BD%86%E6%98%AF%E5%AE%83%E9%80%9F%E5%BA%A6%E5%B9%B6%E4%B8%8D%E5%BF%AB%E6%88%96%E8%80%85%E8%AF%B4%E6%9C%89%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E9%97%B4%E6%AD%87%E9%97%AE%E9%A2%98%E5%A6%82%E6%9E%9C%E7%94%A8%E5%AE%83%E5%86%99%E4%B8%80%E4%B8%AA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%9A%84%E8%AF%9D%E8%BF%99%E6%98%AF%E9%9D%9E%E5%B8%B8%E7%83%A6%E4%BA%BA%E7%9A%84%E4%BD%A0%E4%BB%AC%E6%98%AF%E6%80%8E%E4%B9%88%E7%9C%8B%E8%BF%99%E4%B8%80%E9%97%AE%E9%A2%98%E7%9A%84)
 
-##### [28. 有没有方法能够避免直面垃圾回收器，比如用一些大容量缓存，我们可以把数据扔进去。](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#28-%E6%9C%89%E6%B2%A1%E6%9C%89%E6%96%B9%E6%B3%95%E8%83%BD%E5%A4%9F%E9%81%BF%E5%85%8D%E7%9B%B4%E9%9D%A2%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E5%99%A8%E6%AF%94%E5%A6%82%E7%94%A8%E4%B8%80%E4%BA%9B%E5%A4%A7%E5%AE%B9%E9%87%8F%E7%BC%93%E5%AD%98%E6%88%91%E4%BB%AC%E5%8F%AF%E4%BB%A5%E6%8A%8A%E6%95%B0%E6%8D%AE%E6%89%94%E8%BF%9B%E5%8E%BB)
+##### [28. 有没有方法能够避免直面垃圾回收器，比如用一些大容量缓存，我们可以把数据扔进去。](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#28-%E6%9C%89%E6%B2%A1%E6%9C%89%E6%96%B9%E6%B3%95%E8%83%BD%E5%A4%9F%E9%81%BF%E5%85%8D%E7%9B%B4%E9%9D%A2%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E5%99%A8%E6%AF%94%E5%A6%82%E7%94%A8%E4%B8%80%E4%BA%9B%E5%A4%A7%E5%AE%B9%E9%87%8F%E7%BC%93%E5%AD%98%E6%88%91%E4%BB%AC%E5%8F%AF%E4%BB%A5%E6%8A%8A%E6%95%B0%E6%8D%AE%E6%89%94%E8%BF%9B%E5%8E%BB)
 
-##### [29. 最后一个问题：Go是系统级语言还是应用级语言？](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#29-%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98go%E6%98%AF%E7%B3%BB%E7%BB%9F%E7%BA%A7%E8%AF%AD%E8%A8%80%E8%BF%98%E6%98%AF%E5%BA%94%E7%94%A8%E7%BA%A7%E8%AF%AD%E8%A8%80)
+##### [29. 最后一个问题：Go是系统级语言还是应用级语言？](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#29-%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98go%E6%98%AF%E7%B3%BB%E7%BB%9F%E7%BA%A7%E8%AF%AD%E8%A8%80%E8%BF%98%E6%98%AF%E5%BA%94%E7%94%A8%E7%BA%A7%E8%AF%AD%E8%A8%80)
 
 ## 📚 资料包
 
@@ -103,37 +103,37 @@
 
 #### 入门
 
-[《Go 入门指南》](https://github.com/0voice/Introduction-to-Golang/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%20%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97%E3%80%8B.pdf)
+[《Go 入门指南》](https://github.com/go-quiz/Introduction-to-Golang/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%20%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97%E3%80%8B.pdf)
 
-[《Go语言101》](https://github.com/0voice/Introduction-to-Golang/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%E8%AF%AD%E8%A8%80101%E3%80%8B.pdf)
+[《Go语言101》](https://github.com/go-quiz/Introduction-to-Golang/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%E8%AF%AD%E8%A8%80101%E3%80%8B.pdf)
 
 《Go语言趣学指南》
 
 《Go语言从入门到进阶实战》
 
-[《Go语言学习笔记》](https://github.com/0voice/Introduction-to-Golang/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E3%80%8B.pdf)
+[《Go语言学习笔记》](https://github.com/go-quiz/Introduction-to-Golang/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E3%80%8B.pdf)
 
 [《Go语言入门经典》:hdcy](https://pan.baidu.com/s/15eMLovSIrdCLoILMjr4vBQ)
 
-[《Go语言编程》](https://github.com/0voice/Introduction-to-Golang/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%E8%AF%AD%E8%A8%80%E7%BC%96%E7%A8%8B%E3%80%8B%E9%AB%98%E6%B8%85%E5%AE%8C%E6%95%B4%E7%89%88%E7%94%B5%E5%AD%90%E4%B9%A6.pdf)
+[《Go语言编程》](https://github.com/go-quiz/Introduction-to-Golang/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%E8%AF%AD%E8%A8%80%E7%BC%96%E7%A8%8B%E3%80%8B%E9%AB%98%E6%B8%85%E5%AE%8C%E6%95%B4%E7%89%88%E7%94%B5%E5%AD%90%E4%B9%A6.pdf)
 
-[《Go语言实战》](https://github.com/0voice/Introduction-to-Golang/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%E8%AF%AD%E8%A8%80%E5%AE%9E%E6%88%98%E3%80%8B.epub)
+[《Go语言实战》](https://github.com/go-quiz/Introduction-to-Golang/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%E8%AF%AD%E8%A8%80%E5%AE%9E%E6%88%98%E3%80%8B.epub)
 
-[《Go Web 编程》](https://github.com/0voice/Introduction-to-Golang/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%20Web%20%E7%BC%96%E7%A8%8B%E3%80%8B.epub)
+[《Go Web 编程》](https://github.com/go-quiz/Introduction-to-Golang/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%20Web%20%E7%BC%96%E7%A8%8B%E3%80%8B.epub)
 
 [《Go语言编程入门与实战技巧》:sgro](https://pan.baidu.com/s/1DlkBN8dRWmCHymyD4pJMCg)
 
 #### 进阶
 
-[《Go 语言圣经》](https://github.com/0voice/Introduction-to-Golang/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%20%E8%AF%AD%E8%A8%80%E5%9C%A3%E7%BB%8F%E3%80%8B.pdf)
+[《Go 语言圣经》](https://github.com/go-quiz/Introduction-to-Golang/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%20%E8%AF%AD%E8%A8%80%E5%9C%A3%E7%BB%8F%E3%80%8B.pdf)
 
-[《Go专家编程》](https://github.com/0voice/Introduction-to-Golang/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGO%E4%B8%93%E5%AE%B6%E7%BC%96%E7%A8%8B%E3%80%8B.pdf)
+[《Go专家编程》](https://github.com/go-quiz/Introduction-to-Golang/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGO%E4%B8%93%E5%AE%B6%E7%BC%96%E7%A8%8B%E3%80%8B.pdf)
 
-[《Go 语法树入门》](https://github.com/0voice/Introduction-to-Golang/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%E8%AF%AD%E6%B3%95%E6%A0%91%E5%85%A5%E9%97%A8%E3%80%8B.pdf)
+[《Go 语法树入门》](https://github.com/go-quiz/Introduction-to-Golang/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%E8%AF%AD%E6%B3%95%E6%A0%91%E5%85%A5%E9%97%A8%E3%80%8B.pdf)
 
 [《Go语言程序设计》:flnj](https://pan.baidu.com/s/11WpEqd9Fa7Ur5dH1XJdGtg)
 
-[《Go语言高级编程》](https://github.com/0voice/Introduction-to-Golang/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%E8%AF%AD%E8%A8%80%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B%E3%80%8B.pdf)
+[《Go语言高级编程》](https://github.com/go-quiz/Introduction-to-Golang/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%E8%AF%AD%E8%A8%80%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B%E3%80%8B.pdf)
 
 [《Go语言核心编程》:v9fl](https://pan.baidu.com/s/10QdNpX0fdMH571LA3M8asA)
 
@@ -147,39 +147,39 @@
 
 ### 📖 文章
 
-[当红开发语言Go，真的是未来的技术主流吗？](https://github.com/0voice/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/%E5%BD%93%E7%BA%A2%E5%BC%80%E5%8F%91%E8%AF%AD%E8%A8%80Go%EF%BC%8C%E7%9C%9F%E7%9A%84%E6%98%AF%E6%9C%AA%E6%9D%A5%E7%9A%84%E6%8A%80%E6%9C%AF%E4%B8%BB%E6%B5%81%E5%90%97%EF%BC%9F.md)
+[当红开发语言Go，真的是未来的技术主流吗？](https://github.com/go-quiz/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/%E5%BD%93%E7%BA%A2%E5%BC%80%E5%8F%91%E8%AF%AD%E8%A8%80Go%EF%BC%8C%E7%9C%9F%E7%9A%84%E6%98%AF%E6%9C%AA%E6%9D%A5%E7%9A%84%E6%8A%80%E6%9C%AF%E4%B8%BB%E6%B5%81%E5%90%97%EF%BC%9F.md)
 
-[Go语言之goroutine协程详解](https://github.com/0voice/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/Go%E8%AF%AD%E8%A8%80%E4%B9%8Bgoroutine%E5%8D%8F%E7%A8%8B%E8%AF%A6%E8%A7%A3.md)
+[Go语言之goroutine协程详解](https://github.com/go-quiz/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/Go%E8%AF%AD%E8%A8%80%E4%B9%8Bgoroutine%E5%8D%8F%E7%A8%8B%E8%AF%A6%E8%A7%A3.md)
 
-[Golang之sync.Pool对象池对象重用机制总结](https://github.com/0voice/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/Golang%E4%B9%8Bsync.Pool%E5%AF%B9%E8%B1%A1%E6%B1%A0%E5%AF%B9%E8%B1%A1%E9%87%8D%E7%94%A8%E6%9C%BA%E5%88%B6%E6%80%BB%E7%BB%93.md)
+[Golang之sync.Pool对象池对象重用机制总结](https://github.com/go-quiz/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/Golang%E4%B9%8Bsync.Pool%E5%AF%B9%E8%B1%A1%E6%B1%A0%E5%AF%B9%E8%B1%A1%E9%87%8D%E7%94%A8%E6%9C%BA%E5%88%B6%E6%80%BB%E7%BB%93.md)
 
-[Golang的GC和内存逃逸](https://github.com/0voice/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/Golang%E7%9A%84GC%E5%92%8C%E5%86%85%E5%AD%98%E9%80%83%E9%80%B8.md)
+[Golang的GC和内存逃逸](https://github.com/go-quiz/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/Golang%E7%9A%84GC%E5%92%8C%E5%86%85%E5%AD%98%E9%80%83%E9%80%B8.md)
 
-[GO语言之垃圾回收机制](https://github.com/0voice/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/GO%E8%AF%AD%E8%A8%80%E4%B9%8B%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E6%9C%BA%E5%88%B6.md)
+[GO语言之垃圾回收机制](https://github.com/go-quiz/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/GO%E8%AF%AD%E8%A8%80%E4%B9%8B%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E6%9C%BA%E5%88%B6.md)
 
-[Go内存分配那些事，就这么简单](https://github.com/0voice/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/Go%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D%E9%82%A3%E4%BA%9B%E4%BA%8B%EF%BC%8C%E5%B0%B1%E8%BF%99%E4%B9%88%E7%AE%80%E5%8D%95%EF%BC%81.md)
+[Go内存分配那些事，就这么简单](https://github.com/go-quiz/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/Go%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D%E9%82%A3%E4%BA%9B%E4%BA%8B%EF%BC%8C%E5%B0%B1%E8%BF%99%E4%B9%88%E7%AE%80%E5%8D%95%EF%BC%81.md)
 
-[Go语言TCP Socket编程](https://github.com/0voice/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/Go%E8%AF%AD%E8%A8%80TCP%20Socket%E7%BC%96%E7%A8%8B.md)
+[Go语言TCP Socket编程](https://github.com/go-quiz/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/Go%E8%AF%AD%E8%A8%80TCP%20Socket%E7%BC%96%E7%A8%8B.md)
 
-[从源码角度看 Golang 的调度](https://github.com/0voice/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/%E4%BB%8E%E6%BA%90%E7%A0%81%E8%A7%92%E5%BA%A6%E7%9C%8B%20Golang%20%E7%9A%84%E8%B0%83%E5%BA%A6.md)
+[从源码角度看 Golang 的调度](https://github.com/go-quiz/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/%E4%BB%8E%E6%BA%90%E7%A0%81%E8%A7%92%E5%BA%A6%E7%9C%8B%20Golang%20%E7%9A%84%E8%B0%83%E5%BA%A6.md)
 
-[Protobuf入门](https://github.com/0voice/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/Protobuf%E5%85%A5%E9%97%A8.md)
+[Protobuf入门](https://github.com/go-quiz/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/Protobuf%E5%85%A5%E9%97%A8.md)
 
-[etcd的使用](https://github.com/0voice/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/etcd%E7%9A%84%E4%BD%BF%E7%94%A8.md)
+[etcd的使用](https://github.com/go-quiz/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/etcd%E7%9A%84%E4%BD%BF%E7%94%A8.md)
 
-[深入理解 Go Map](https://github.com/0voice/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%20Go%20Map.md)
+[深入理解 Go Map](https://github.com/go-quiz/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%20Go%20Map.md)
 
-[用go实现常见的数据结构](https://github.com/0voice/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/%E7%94%A8go%E5%AE%9E%E7%8E%B0%E5%B8%B8%E8%A7%81%E7%9A%84%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.md)
+[用go实现常见的数据结构](https://github.com/go-quiz/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/%E7%94%A8go%E5%AE%9E%E7%8E%B0%E5%B8%B8%E8%A7%81%E7%9A%84%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.md)
 
-[Go 程序是怎样跑起来的](https://github.com/0voice/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/Go%20%E7%A8%8B%E5%BA%8F%E6%98%AF%E6%80%8E%E6%A0%B7%E8%B7%91%E8%B5%B7%E6%9D%A5%E7%9A%84.md)
+[Go 程序是怎样跑起来的](https://github.com/go-quiz/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/Go%20%E7%A8%8B%E5%BA%8F%E6%98%AF%E6%80%8E%E6%A0%B7%E8%B7%91%E8%B5%B7%E6%9D%A5%E7%9A%84.md)
 
-[go内存管理一：系统内存管理](https://github.com/0voice/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/go%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E4%B8%80%EF%BC%9A%E7%B3%BB%E7%BB%9F%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86.md)
+[go内存管理一：系统内存管理](https://github.com/go-quiz/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/go%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E4%B8%80%EF%BC%9A%E7%B3%BB%E7%BB%9F%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86.md)
 
-[go内存管理二：go内存管理](https://github.com/0voice/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/go%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E4%BA%8C%EF%BC%9Ago%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86.md)
+[go内存管理二：go内存管理](https://github.com/go-quiz/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/go%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E4%BA%8C%EF%BC%9Ago%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86.md)
 
-[图解Go内存分配器](https://github.com/0voice/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/%E5%9B%BE%E8%A7%A3Go%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D%E5%99%A8.md)
+[图解Go内存分配器](https://github.com/go-quiz/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/%E5%9B%BE%E8%A7%A3Go%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D%E5%99%A8.md)
 
-[Go常用命令](https://github.com/0voice/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/Go%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.md)
+[Go常用命令](https://github.com/go-quiz/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/Go%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.md)
 
 ---
 
@@ -314,39 +314,39 @@ golang快速入门【奇淼】 | [bilibili持续更新](https://space.bilibili.c
 
 ### 🖼 大厂实战分享ppt
 
-* [Go in TiDB](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/Go%20in%20TiDB.pdf)
-* [Go 如何助力企业进行微服务转型](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/Go%20%E5%A6%82%E4%BD%95%E5%8A%A9%E5%8A%9B%E4%BC%81%E4%B8%9A%E8%BF%9B%E8%A1%8C%E5%BE%AE%E6%9C%8D%E5%8A%A1%E8%BD%AC%E5%9E%8B.pdf)
-* [Golang 内存管理探微&mdash&mdash，如何高效使用 Golang 内存以及腾讯云实战-杨晖](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/Golang%20%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E6%8E%A2%E5%BE%AE%26mdash%26mdash%EF%BC%8C%E5%A6%82%E4%BD%95%E9%AB%98%E6%95%88%E4%BD%BF%E7%94%A8%20Golang%20%E5%86%85%E5%AD%98%E4%BB%A5%E5%8F%8A%E8%85%BE%E8%AE%AF%E4%BA%91%E5%AE%9E%E6%88%98-%E6%9D%A8%E6%99%96.pdf)
-* [Golang主动式内存缓存的优化探索之路](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/Golang%E4%B8%BB%E5%8A%A8%E5%BC%8F%E5%86%85%E5%AD%98%E7%BC%93%E5%AD%98%E7%9A%84%E4%BC%98%E5%8C%96%E6%8E%A2%E7%B4%A2%E4%B9%8B%E8%B7%AF.pdf)
-* [Golang在百万亿搜索引擎中的应用](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/Golang%E5%9C%A8%E7%99%BE%E4%B8%87%E4%BA%BF%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8.pdf)
-* [Golang在阿里巴巴调度系统Sigma中的实践](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/Golang%E5%9C%A8%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E8%B0%83%E5%BA%A6%E7%B3%BB%E7%BB%9FSigma%E4%B8%AD%E7%9A%84%E5%AE%9E%E8%B7%B5.pdf)
-* [Go在大数据开发中的经验总结](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/Go%E5%9C%A8%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%BC%80%E5%8F%91%E4%B8%AD%E7%9A%84%E7%BB%8F%E9%AA%8C%E6%80%BB%E7%BB%93.pdf)
-* [Go在探探后端的工程实践](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/Go%E5%9C%A8%E6%8E%A2%E6%8E%A2%E5%90%8E%E7%AB%AF%E7%9A%84%E5%B7%A5%E7%A8%8B%E5%AE%9E%E8%B7%B5.pdf)
-* [Go在证券行情系统中的应用](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/Go%E5%9C%A8%E8%AF%81%E5%88%B8%E8%A1%8C%E6%83%85%E7%B3%BB%E7%BB%9F%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8.pdf)
-* [Go微服务实战](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/Go%E5%BE%AE%E6%9C%8D%E5%8A%A1%E5%AE%9E%E6%88%98.pdf)
-* [Go打造亿级实时分布式平台](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/Go%E6%89%93%E9%80%A0%E4%BA%BF%E7%BA%A7%E5%AE%9E%E6%97%B6%E5%88%86%E5%B8%83%E5%BC%8F%E5%B9%B3%E5%8F%B0_2.pdf)
-* [Go语言在讯联扫码支付系统中的成功实践](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/Go%E8%AF%AD%E8%A8%80%E5%9C%A8%E8%AE%AF%E8%81%94%E6%89%AB%E7%A0%81%E6%94%AF%E4%BB%98%E7%B3%BB%E7%BB%9F%E4%B8%AD%E7%9A%84%E6%88%90%E5%8A%9F%E5%AE%9E%E8%B7%B5.pdf)
-* [Go语言在证券期货行情系统中的实践](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/Go%E8%AF%AD%E8%A8%80%E5%9C%A8%E8%AF%81%E5%88%B8%E6%9C%9F%E8%B4%A7%E8%A1%8C%E6%83%85%E7%B3%BB%E7%BB%9F%E4%B8%AD%E7%9A%84%E5%AE%9E%E8%B7%B5.pdf)
-* [Go语言的抢占式调度](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/Go%E8%AF%AD%E8%A8%80%E7%9A%84%E6%8A%A2%E5%8D%A0%E5%BC%8F%E8%B0%83%E5%BA%A6.pdf)
-* [Improving Go Backend Developer Experience in Grab](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/Improving%20Go%20Backend%20Developer%20Experience%20in%20Grab.pdf)
-* [Processing XML and Spreadsheet Data in Go](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/Processing%20XML%20and%20Spreadsheet%20Data%20in%20Go.pdf)
-* [The Zen of Go](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/The%20Zen%20of%20Go.pdf)
-* [Tracing in TiDB](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/Tracing%20in%20TiDB.pdf)
-* [goplus-gopher-china](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/goplus-gopher-china.pdf)
-* [云原生技术在2B交付中的实践](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/%E4%BA%91%E5%8E%9F%E7%94%9F%E6%8A%80%E6%9C%AF%E5%9C%A82B%E4%BA%A4%E4%BB%98%E4%B8%AD%E7%9A%84%E5%AE%9E%E8%B7%B5.pdf)
-* [利用夜莺扩展能力打造全方位监控系统](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/%E5%88%A9%E7%94%A8%E5%A4%9C%E8%8E%BA%E6%89%A9%E5%B1%95%E8%83%BD%E5%8A%9B%E6%89%93%E9%80%A0%E5%85%A8%E6%96%B9%E4%BD%8D%E7%9B%91%E6%8E%A7%E7%B3%BB%E7%BB%9F.pdf)
-* [基于 Golang 构建高可扩展的云原生 PaaS 平台](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/%E5%9F%BA%E4%BA%8E%20Golang%20%E6%9E%84%E5%BB%BA%E9%AB%98%E5%8F%AF%E6%89%A9%E5%B1%95%E7%9A%84%E4%BA%91%E5%8E%9F%E7%94%9F%20PaaS%20%E5%B9%B3%E5%8F%B0.pdf)
-* [基于Kubernetes的私有云实战](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/%E5%9F%BA%E4%BA%8EKubernetes%E7%9A%84%E7%A7%81%E6%9C%89%E4%BA%91%E5%AE%9E%E6%88%98.pdf)
-* [大规模场景下Kubernetes Service负载均衡性能优化](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%9C%BA%E6%99%AF%E4%B8%8BKubernetes%20Service%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96.pdf)
-* [天猫DevOps转型实践](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/%E5%A4%A9%E7%8C%ABDevOps%E8%BD%AC%E5%9E%8B%E5%AE%9E%E8%B7%B5.pdf)
-* [如何用Go模拟CPU](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/%E5%A6%82%E4%BD%95%E7%94%A8Go%E6%A8%A1%E6%8B%9FCPU.pdf)
-* [字节跳动在 Go 网络库上的实践](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E5%9C%A8%20Go%20%E7%BD%91%E7%BB%9C%E5%BA%93%E4%B8%8A%E7%9A%84%E5%AE%9E%E8%B7%B5.pdf)
-* [深入Go Module](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/%E6%B7%B1%E5%85%A5Go%20Module.pdf)
-* [深入理解BFE](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3BFE.pdf)
-* [罗辑思维Go语言微服务改造实践](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/%E7%BD%97%E8%BE%91%E6%80%9D%E7%BB%B4Go%E8%AF%AD%E8%A8%80%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%94%B9%E9%80%A0%E5%AE%9E%E8%B7%B5.pdf)
-* [谈如何构建易于拆分的单体应用](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/%E8%B0%88%E5%A6%82%E4%BD%95%E6%9E%84%E5%BB%BA%E6%98%93%E4%BA%8E%E6%8B%86%E5%88%86%E7%9A%84%E5%8D%95%E4%BD%93%E5%BA%94%E7%94%A8.pdf)
-* [跨境电商的Go服务治理实践](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/%E8%B7%A8%E5%A2%83%E7%94%B5%E5%95%86%E7%9A%84Go%E6%9C%8D%E5%8A%A1%E6%B2%BB%E7%90%86%E5%AE%9E%E8%B7%B5.pdf)
-* [阿里巴巴新一代基于 Go 的云原生应用引擎实践](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%96%B0%E4%B8%80%E4%BB%A3%E5%9F%BA%E4%BA%8E%20Go%20%E7%9A%84%E4%BA%91%E5%8E%9F%E7%94%9F%E5%BA%94%E7%94%A8%E5%BC%95%E6%93%8E%E5%AE%9E%E8%B7%B5.pdf)
+* [Go in TiDB](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Golang%20PPT/Go%20in%20TiDB.pdf)
+* [Go 如何助力企业进行微服务转型](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Golang%20PPT/Go%20%E5%A6%82%E4%BD%95%E5%8A%A9%E5%8A%9B%E4%BC%81%E4%B8%9A%E8%BF%9B%E8%A1%8C%E5%BE%AE%E6%9C%8D%E5%8A%A1%E8%BD%AC%E5%9E%8B.pdf)
+* [Golang 内存管理探微&mdash&mdash，如何高效使用 Golang 内存以及腾讯云实战-杨晖](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Golang%20PPT/Golang%20%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E6%8E%A2%E5%BE%AE%26mdash%26mdash%EF%BC%8C%E5%A6%82%E4%BD%95%E9%AB%98%E6%95%88%E4%BD%BF%E7%94%A8%20Golang%20%E5%86%85%E5%AD%98%E4%BB%A5%E5%8F%8A%E8%85%BE%E8%AE%AF%E4%BA%91%E5%AE%9E%E6%88%98-%E6%9D%A8%E6%99%96.pdf)
+* [Golang主动式内存缓存的优化探索之路](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Golang%20PPT/Golang%E4%B8%BB%E5%8A%A8%E5%BC%8F%E5%86%85%E5%AD%98%E7%BC%93%E5%AD%98%E7%9A%84%E4%BC%98%E5%8C%96%E6%8E%A2%E7%B4%A2%E4%B9%8B%E8%B7%AF.pdf)
+* [Golang在百万亿搜索引擎中的应用](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Golang%20PPT/Golang%E5%9C%A8%E7%99%BE%E4%B8%87%E4%BA%BF%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8.pdf)
+* [Golang在阿里巴巴调度系统Sigma中的实践](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Golang%20PPT/Golang%E5%9C%A8%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E8%B0%83%E5%BA%A6%E7%B3%BB%E7%BB%9FSigma%E4%B8%AD%E7%9A%84%E5%AE%9E%E8%B7%B5.pdf)
+* [Go在大数据开发中的经验总结](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Golang%20PPT/Go%E5%9C%A8%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%BC%80%E5%8F%91%E4%B8%AD%E7%9A%84%E7%BB%8F%E9%AA%8C%E6%80%BB%E7%BB%93.pdf)
+* [Go在探探后端的工程实践](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Golang%20PPT/Go%E5%9C%A8%E6%8E%A2%E6%8E%A2%E5%90%8E%E7%AB%AF%E7%9A%84%E5%B7%A5%E7%A8%8B%E5%AE%9E%E8%B7%B5.pdf)
+* [Go在证券行情系统中的应用](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Golang%20PPT/Go%E5%9C%A8%E8%AF%81%E5%88%B8%E8%A1%8C%E6%83%85%E7%B3%BB%E7%BB%9F%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8.pdf)
+* [Go微服务实战](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Golang%20PPT/Go%E5%BE%AE%E6%9C%8D%E5%8A%A1%E5%AE%9E%E6%88%98.pdf)
+* [Go打造亿级实时分布式平台](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Golang%20PPT/Go%E6%89%93%E9%80%A0%E4%BA%BF%E7%BA%A7%E5%AE%9E%E6%97%B6%E5%88%86%E5%B8%83%E5%BC%8F%E5%B9%B3%E5%8F%B0_2.pdf)
+* [Go语言在讯联扫码支付系统中的成功实践](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Golang%20PPT/Go%E8%AF%AD%E8%A8%80%E5%9C%A8%E8%AE%AF%E8%81%94%E6%89%AB%E7%A0%81%E6%94%AF%E4%BB%98%E7%B3%BB%E7%BB%9F%E4%B8%AD%E7%9A%84%E6%88%90%E5%8A%9F%E5%AE%9E%E8%B7%B5.pdf)
+* [Go语言在证券期货行情系统中的实践](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Golang%20PPT/Go%E8%AF%AD%E8%A8%80%E5%9C%A8%E8%AF%81%E5%88%B8%E6%9C%9F%E8%B4%A7%E8%A1%8C%E6%83%85%E7%B3%BB%E7%BB%9F%E4%B8%AD%E7%9A%84%E5%AE%9E%E8%B7%B5.pdf)
+* [Go语言的抢占式调度](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Golang%20PPT/Go%E8%AF%AD%E8%A8%80%E7%9A%84%E6%8A%A2%E5%8D%A0%E5%BC%8F%E8%B0%83%E5%BA%A6.pdf)
+* [Improving Go Backend Developer Experience in Grab](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Golang%20PPT/Improving%20Go%20Backend%20Developer%20Experience%20in%20Grab.pdf)
+* [Processing XML and Spreadsheet Data in Go](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Golang%20PPT/Processing%20XML%20and%20Spreadsheet%20Data%20in%20Go.pdf)
+* [The Zen of Go](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Golang%20PPT/The%20Zen%20of%20Go.pdf)
+* [Tracing in TiDB](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Golang%20PPT/Tracing%20in%20TiDB.pdf)
+* [goplus-gopher-china](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Golang%20PPT/goplus-gopher-china.pdf)
+* [云原生技术在2B交付中的实践](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Golang%20PPT/%E4%BA%91%E5%8E%9F%E7%94%9F%E6%8A%80%E6%9C%AF%E5%9C%A82B%E4%BA%A4%E4%BB%98%E4%B8%AD%E7%9A%84%E5%AE%9E%E8%B7%B5.pdf)
+* [利用夜莺扩展能力打造全方位监控系统](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Golang%20PPT/%E5%88%A9%E7%94%A8%E5%A4%9C%E8%8E%BA%E6%89%A9%E5%B1%95%E8%83%BD%E5%8A%9B%E6%89%93%E9%80%A0%E5%85%A8%E6%96%B9%E4%BD%8D%E7%9B%91%E6%8E%A7%E7%B3%BB%E7%BB%9F.pdf)
+* [基于 Golang 构建高可扩展的云原生 PaaS 平台](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Golang%20PPT/%E5%9F%BA%E4%BA%8E%20Golang%20%E6%9E%84%E5%BB%BA%E9%AB%98%E5%8F%AF%E6%89%A9%E5%B1%95%E7%9A%84%E4%BA%91%E5%8E%9F%E7%94%9F%20PaaS%20%E5%B9%B3%E5%8F%B0.pdf)
+* [基于Kubernetes的私有云实战](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Golang%20PPT/%E5%9F%BA%E4%BA%8EKubernetes%E7%9A%84%E7%A7%81%E6%9C%89%E4%BA%91%E5%AE%9E%E6%88%98.pdf)
+* [大规模场景下Kubernetes Service负载均衡性能优化](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Golang%20PPT/%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%9C%BA%E6%99%AF%E4%B8%8BKubernetes%20Service%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96.pdf)
+* [天猫DevOps转型实践](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Golang%20PPT/%E5%A4%A9%E7%8C%ABDevOps%E8%BD%AC%E5%9E%8B%E5%AE%9E%E8%B7%B5.pdf)
+* [如何用Go模拟CPU](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Golang%20PPT/%E5%A6%82%E4%BD%95%E7%94%A8Go%E6%A8%A1%E6%8B%9FCPU.pdf)
+* [字节跳动在 Go 网络库上的实践](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Golang%20PPT/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E5%9C%A8%20Go%20%E7%BD%91%E7%BB%9C%E5%BA%93%E4%B8%8A%E7%9A%84%E5%AE%9E%E8%B7%B5.pdf)
+* [深入Go Module](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Golang%20PPT/%E6%B7%B1%E5%85%A5Go%20Module.pdf)
+* [深入理解BFE](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Golang%20PPT/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3BFE.pdf)
+* [罗辑思维Go语言微服务改造实践](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Golang%20PPT/%E7%BD%97%E8%BE%91%E6%80%9D%E7%BB%B4Go%E8%AF%AD%E8%A8%80%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%94%B9%E9%80%A0%E5%AE%9E%E8%B7%B5.pdf)
+* [谈如何构建易于拆分的单体应用](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Golang%20PPT/%E8%B0%88%E5%A6%82%E4%BD%95%E6%9E%84%E5%BB%BA%E6%98%93%E4%BA%8E%E6%8B%86%E5%88%86%E7%9A%84%E5%8D%95%E4%BD%93%E5%BA%94%E7%94%A8.pdf)
+* [跨境电商的Go服务治理实践](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Golang%20PPT/%E8%B7%A8%E5%A2%83%E7%94%B5%E5%95%86%E7%9A%84Go%E6%9C%8D%E5%8A%A1%E6%B2%BB%E7%90%86%E5%AE%9E%E8%B7%B5.pdf)
+* [阿里巴巴新一代基于 Go 的云原生应用引擎实践](https://github.com/go-quiz/Introduction-to-Golang/blob/main/Golang%20PPT/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%96%B0%E4%B8%80%E4%BB%A3%E5%9F%BA%E4%BA%8E%20Go%20%E7%9A%84%E4%BA%91%E5%8E%9F%E7%94%9F%E5%BA%94%E7%94%A8%E5%BC%95%E6%93%8E%E5%AE%9E%E8%B7%B5.pdf)
 
 ---
 
@@ -356,16 +356,16 @@ golang快速入门【奇淼】 | [bilibili持续更新](https://space.bilibili.c
 	
 Title|Translation（参考）|Company
 :---------------: | :------------: | :-------:
-[《Acme: A User Interface for Programmers》](https://github.com/0voice/Introduction-to-Golang/blob/main/paper/A%20User%20Interface%20for%20Programmers.pdf) | 程序员的用户界面 | AT&T,贝尔实验室
-[《Understanding Real-World Concurrency Bugs in Go》](https://github.com/0voice/Introduction-to-Golang/blob/main/paper/Understanding%20Real-World%20Concurrency%20Bugs%20in%20Go.pdf) | 了解真实go中的并发bug | 宾夕法尼亚州立大学
-[《A Formal Model of the Kubernetes Container Framework》](https://github.com/0voice/Introduction-to-Golang/blob/main/paper/%E3%80%8AA%20Formal%20Model%20of%20the%20Kubernetes%20Container%20Framework%E3%80%8B.pdf) | Kubernetes容器框架的形式化模型 | 奥斯陆大学
-[《Running Cloud Native Applications on DigitalOcean Kubernetes》](https://github.com/0voice/Introduction-to-Golang/blob/main/paper/%E3%80%8ARunning%20Cloud%20Native%20Applications%20on%20DigitalOcean%20Kubernetes%E3%80%8B.pdf) | 在DigitalOcean Kubernetes上运行云本地应用 | 未知
-[《Kubernetes as an Availability Manager for Microservice Applications》](https://github.com/0voice/Introduction-to-Golang/blob/main/paper/%E3%80%8AKubernetes%20as%20an%20Availability%20Manager%20for%20Microservice%20Applications%E3%80%8B.pdf) | Kubernetes作为微服务应用程序的可用性管理器 | 康科迪亚大学
-[《Borg, Omega, and Kubernetes》](https://github.com/0voice/Introduction-to-Golang/blob/main/paper/%E3%80%8ABorg%2C%20Omega%2C%20and%20Kubernetes%E3%80%8B.pdf) | Borg、Omega 和 Kubernetes | GOOGLE
-[《A Raft-based HTAP Database》](https://github.com/0voice/Introduction-to-Golang/blob/main/paper/%E3%80%8AA%20Raft-based%20HTAP%20Database%E3%80%8B.pdf)|基于raft的HTAP数据库|VLDB基金会论文集
-[《For Reproducible Environments and Containerized Applications》](https://github.com/0voice/Introduction-to-Golang/blob/main/paper/%E3%80%8AFor%20Reproducible%20Environments%20and%20Containerized%20Applications%E3%80%8B.pdf)|用于可复制环境和容器化应用程序 |圣克劳德州立大学
-[《Escape from Escape Analysis of Golang》](https://github.com/0voice/Introduction-to-Golang/blob/main/paper/%E3%80%8AEscape%20from%20Escape%20Analysis%20of%20Golang%E3%80%8B.pdf)|golang逃离分析 |清华大学
-[《Using gRPC with Go》](https://github.com/0voice/Introduction-to-Golang/blob/main/paper/%E3%80%8AUsing%20gRPC%20with%20Go%E3%80%8B.pdf)| 在Go中使用gRPC|未知
+[《Acme: A User Interface for Programmers》](https://github.com/go-quiz/Introduction-to-Golang/blob/main/paper/A%20User%20Interface%20for%20Programmers.pdf) | 程序员的用户界面 | AT&T,贝尔实验室
+[《Understanding Real-World Concurrency Bugs in Go》](https://github.com/go-quiz/Introduction-to-Golang/blob/main/paper/Understanding%20Real-World%20Concurrency%20Bugs%20in%20Go.pdf) | 了解真实go中的并发bug | 宾夕法尼亚州立大学
+[《A Formal Model of the Kubernetes Container Framework》](https://github.com/go-quiz/Introduction-to-Golang/blob/main/paper/%E3%80%8AA%20Formal%20Model%20of%20the%20Kubernetes%20Container%20Framework%E3%80%8B.pdf) | Kubernetes容器框架的形式化模型 | 奥斯陆大学
+[《Running Cloud Native Applications on DigitalOcean Kubernetes》](https://github.com/go-quiz/Introduction-to-Golang/blob/main/paper/%E3%80%8ARunning%20Cloud%20Native%20Applications%20on%20DigitalOcean%20Kubernetes%E3%80%8B.pdf) | 在DigitalOcean Kubernetes上运行云本地应用 | 未知
+[《Kubernetes as an Availability Manager for Microservice Applications》](https://github.com/go-quiz/Introduction-to-Golang/blob/main/paper/%E3%80%8AKubernetes%20as%20an%20Availability%20Manager%20for%20Microservice%20Applications%E3%80%8B.pdf) | Kubernetes作为微服务应用程序的可用性管理器 | 康科迪亚大学
+[《Borg, Omega, and Kubernetes》](https://github.com/go-quiz/Introduction-to-Golang/blob/main/paper/%E3%80%8ABorg%2C%20Omega%2C%20and%20Kubernetes%E3%80%8B.pdf) | Borg、Omega 和 Kubernetes | GOOGLE
+[《A Raft-based HTAP Database》](https://github.com/go-quiz/Introduction-to-Golang/blob/main/paper/%E3%80%8AA%20Raft-based%20HTAP%20Database%E3%80%8B.pdf)|基于raft的HTAP数据库|VLDB基金会论文集
+[《For Reproducible Environments and Containerized Applications》](https://github.com/go-quiz/Introduction-to-Golang/blob/main/paper/%E3%80%8AFor%20Reproducible%20Environments%20and%20Containerized%20Applications%E3%80%8B.pdf)|用于可复制环境和容器化应用程序 |圣克劳德州立大学
+[《Escape from Escape Analysis of Golang》](https://github.com/go-quiz/Introduction-to-Golang/blob/main/paper/%E3%80%8AEscape%20from%20Escape%20Analysis%20of%20Golang%E3%80%8B.pdf)|golang逃离分析 |清华大学
+[《Using gRPC with Go》](https://github.com/go-quiz/Introduction-to-Golang/blob/main/paper/%E3%80%8AUsing%20gRPC%20with%20Go%E3%80%8B.pdf)| 在Go中使用gRPC|未知
 
 
 </div>
@@ -385,7 +385,7 @@ Title|Translation（参考）|Company
   * 其他接口
   * 通话质量监控
 * 云点播
-  * [视频处理](https://github.com/0voice/Introduction-to-Golang/blob/main/%E4%BA%91%E5%8E%9F%E7%94%9F/%E8%85%BE%E8%AE%AF%E4%BA%91/%E4%BA%91%E7%82%B9%E6%92%AD/%E8%A7%86%E9%A2%91%E5%A4%84%E7%90%86%E7%9B%B8%E5%85%B3%E6%8E%A5%E5%8F%A3.md)
+  * [视频处理](https://github.com/go-quiz/Introduction-to-Golang/blob/main/%E4%BA%91%E5%8E%9F%E7%94%9F/%E8%85%BE%E8%AE%AF%E4%BA%91/%E4%BA%91%E7%82%B9%E6%92%AD/%E8%A7%86%E9%A2%91%E5%A4%84%E7%90%86%E7%9B%B8%E5%85%B3%E6%8E%A5%E5%8F%A3.md)
   * 参数模板
   * 其他接口
   * 任务流
@@ -538,13 +538,13 @@ Title|Translation（参考）|Company
 ......
 
 
-## 📥 [源码下载](https://github.com/0voice/Introduction-to-Golang/blob/main/%E6%BA%90%E7%A0%81/go1.16.7.src.tar.gz)
+## 📥 [源码下载](https://github.com/go-quiz/Introduction-to-Golang/blob/main/%E6%BA%90%E7%A0%81/go1.16.7.src.tar.gz)
 
 Go官网下载地址：https://golang.org/dl/
 
 Go官方镜像站（推荐）：https://golang.google.cn/dl/
 
-## 🏃‍♂ [开启Go语言学习之旅，从"Hello World"开始！](https://github.com/0voice/Introduction-to-Golang/blob/main/%E6%90%AD%E5%BB%BAGo%E8%AF%AD%E8%A8%80%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E6%90%AD%E5%BB%BAGo%E8%AF%AD%E8%A8%80%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83.md)
+## 🏃‍♂ [开启Go语言学习之旅，从"Hello World"开始！](https://github.com/go-quiz/Introduction-to-Golang/blob/main/%E6%90%AD%E5%BB%BAGo%E8%AF%AD%E8%A8%80%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E6%90%AD%E5%BB%BAGo%E8%AF%AD%E8%A8%80%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83.md)
 
 <div  align=center>
   
